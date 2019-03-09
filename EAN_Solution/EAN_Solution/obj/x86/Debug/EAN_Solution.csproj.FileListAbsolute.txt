@@ -1,0 +1,5 @@
+C:\Users\Egli\Documents\EAN_Solution\EAN_Solution\bin\Debug\EAN_Solution.exe
+C:\Users\Egli\Documents\EAN_Solution\EAN_Solution\bin\Debug\EAN_Solution.pdb
+C:\Users\Egli\Documents\EAN_Solution\EAN_Solution\obj\x86\Debug\EAN_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Egli\Documents\EAN_Solution\EAN_Solution\obj\x86\Debug\EAN_Solution.exe
+C:\Users\Egli\Documents\EAN_Solution\EAN_Solution\obj\x86\Debug\EAN_Solution.pdb
